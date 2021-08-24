@@ -8,6 +8,9 @@
 - 📫 How to reach me: roportaperez@gmail.com
 - 😄 Pronouns: miniscule mega cell developed
 - ⚡ Fun fact: before quarantine I dont like cats but during the lockdown I really appreciate the beauty of this independent animal🐱
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogeralbp&show_icons=true&theme=merko)
+
 <!--
 **rogeralbp/rogeralbp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
