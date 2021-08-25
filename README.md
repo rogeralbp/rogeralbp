@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Content Scrapping
-- 🌱 I’m currently learning A.I, JS Based frameworks and the entire concept of DevOps and all the posibilities in the Cloud 
+- 🌱 I’m currently learning A.I, JS Based frameworks and the entire concept of DevOps and Cloud 
 - 👯 I’m looking to collaborate on Open Source Code
 - 💬 Ask me about Oscar's Nominations Movies
 - 📫 How to reach me: roportaperez@gmail.com
-- 😄 Pronouns: miniscule mega cell developed
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogeralbp&show_icons=true&theme=merko)
 
