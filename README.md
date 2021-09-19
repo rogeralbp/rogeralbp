@@ -8,6 +8,8 @@
 
 <!-- Quote -->
 <p align="center">I'm always Open to new Oportunities.
+ <br>
+ <a href="https://docs.google.com/document/d/1OQsVnuPtXKsW3deX9gl2kmoGfPfFf2pN/edit?usp=sharing&ouid=117352629232309217455&rtpof=true&sd=true">Here you can see my Summarize Resume<a/>
   
   <!-- Social Network -->
 <h1 align="center">
