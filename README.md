@@ -44,7 +44,7 @@
  
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code><!-- JAVA -->
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code><!-- python -->
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146298-d98ce000-470c-11eb-973d-3ff9e1b90561.png"></code><!-- JavaScipt -->
+  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146298-d98ce000-470c-11eb-973d-3ff9e1b90561.png" title= "aaaaaaaaaaaa"></code><!-- JavaScipt -->
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146335-3d170d80-470d-11eb-9fce-ff775c77b96b.png"></code><!-- HTML -->
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code><!-- CLI -->
   <code><img height="40" src="https://user-images.githubusercontent.com/31899798/133864114-58fd1e04-e032-40f9-81d3-17f1aef6a501.png"></code><!-- GIT -->
