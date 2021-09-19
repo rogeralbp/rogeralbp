@@ -49,8 +49,8 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title= "Command Line Interface"></code><!-- CLI -->
   <code><img height="40" src="https://user-images.githubusercontent.com/31899798/133864114-58fd1e04-e032-40f9-81d3-17f1aef6a501.png" title= "Git"></code><!-- GIT -->
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686705-d9c11900-0bbc-11eb-87f5-a149b86cde5a.png" title= "indows, Linux, MacOS"></code><!-- S.O's -->
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686779-5fdd5f80-0bbd-11eb-9a0b-8eb90d565518.png" title= "MySQL"></code><!-- SQL Server -->
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/100187906-b7eecd80-2eae-11eb-8074-b65db8dfaecb.png" title= "QL Server"></code><!-- VS Code -->
+  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686779-5fdd5f80-0bbd-11eb-9a0b-8eb90d565518.png" title= "SQL Server"></code><!-- SQL Server -->
+  
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688875-5dcdcd80-0bca-11eb-8915-b3cf9791ca3c.png" title= "Office Suite"></code><!-- Office -->
   <code><img height="40" src="https://user-images.githubusercontent.com/31899798/133864768-e6772f15-90c6-4f39-a6d2-d3c402dde726.png" title= "MongoDB"></code><!-- MongoDB -->
   <code><img height="40" src="https://user-images.githubusercontent.com/31899798/133865181-7b87336d-b9cd-4de9-9a3f-7cf71fc112c5.png" title= "Postgresql"></code><!-- Postgresql -->
