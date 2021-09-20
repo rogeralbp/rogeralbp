@@ -93,5 +93,5 @@
        src="https://github-readme-stats.vercel.app/api?username=rogeralbp&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" />
 </a>
 
-
+If you want to build a markdown file like this [check this repo](https://github.com/rogeralbp/dinamic-readmecv)🙏
 
