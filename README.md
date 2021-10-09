@@ -1,97 +1,31 @@
+# Hello there, I'm Roger Oporta👋
 
-<!-- Title -->
-<h1 align="center">Hello There
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
-       width="30px">
-  </h2></h1>
+Software Engineer with 2 years of experience dedicated to providing quality care for
+ultimate client satisfaction working as I.T Technician, Web Content Specialist and Software Developer.
 
+## Technicals Skills
+- Java, C#, ASP.NET, PHP
+- SQL Server, Postgresql, MySQL, MongoDB
+- CSS, JavaScript, HTML, Bootstrap
+- Node.js, Angular.js, Vue.js , Laravel
+- Agile, Jira
+- GIT
 
-<!-- Quote -->
-<p align="center">I'm always Open to new Oportunities.
- <br>
- <a href="https://drive.google.com/file/d/1U54FwlA4nfO58wUz1WYkDrh7lETxpLht/view?usp=sharing">Here you can check my Resume<a/>
+## I'm always open to new opportunities as Developer
+
+ [Check my Resume](https://drive.google.com/file/d/1U54FwlA4nfO58wUz1WYkDrh7lETxpLht/view?usp=sharing)
   
-  <!-- Social Network -->
-<h1 align="center">
-  
-  <a href="https://www.instagram.com/rogeralbp/">
-  <img align="center" 
-       alt="Lunox's Instagram" 
-       width="22px" 
-       src="https://user-images.githubusercontent.com/55005374/103146167-0b04ac00-470b-11eb-84fc-db4b7299e4ef.png" />
-  </a>
-  
-<a href="https://www.linkedin.com/in/rogeralbp/">
-  <img align="center" 
-       alt="Linkdein" 
-       width="22px" 
-       src="https://user-images.githubusercontent.com/55005374/103146171-312a4c00-470b-11eb-8839-992580bb8206.png" />
-  </a>
-  
-<a href="mailto:roportaperez@gmail.com@gmail.com">
-  <img align="center" 
-       alt="Gmail" 
-       width="22px" 
-       src="https://user-images.githubusercontent.com/55005374/103146250-0d1b3a80-470c-11eb-8ead-a92232d45d6e.png" />
-  </a>
-</h1>
+## Don't be afraid of contact me.
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rogeralbp/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/rogeralbp)
 
 
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/rogeralbp)
 
-<!-- Background -->
+### Thanks for visit my Profile🥰 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${rogeralbp})
 
-<!-- Technical Skills -->
-<p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
-  
- 
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" title= "JAVA"></code><!-- JAVA -->
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title= "Python"></code><!-- python -->
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146298-d98ce000-470c-11eb-973d-3ff9e1b90561.png" title= "JavaScript"></code><!-- JavaScipt -->
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146335-3d170d80-470d-11eb-9fce-ff775c77b96b.png" title= "HTML"></code><!-- HTML -->
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" title= "Command Line Interface"></code><!-- CLI -->
-  <code><img height="40" src="https://user-images.githubusercontent.com/31899798/133864114-58fd1e04-e032-40f9-81d3-17f1aef6a501.png" title= "Git"></code><!-- GIT -->
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686705-d9c11900-0bbc-11eb-87f5-a149b86cde5a.png" title= "Windows, Linux, MacOS"></code><!-- S.O's -->
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686779-5fdd5f80-0bbd-11eb-9a0b-8eb90d565518.png" title= "SQL Server"></code><!-- SQL Server -->
-  
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688875-5dcdcd80-0bca-11eb-8915-b3cf9791ca3c.png" title= "Office Suite"></code><!-- Office -->
-  <code><img height="40" src="https://user-images.githubusercontent.com/31899798/133864768-e6772f15-90c6-4f39-a6d2-d3c402dde726.png" title= "MongoDB"></code><!-- MongoDB -->
-  <code><img height="40" src="https://user-images.githubusercontent.com/31899798/133865181-7b87336d-b9cd-4de9-9a3f-7cf71fc112c5.png" title= "Postgresql"></code><!-- Postgresql -->
-  <code><img height="40" src="https://user-images.githubusercontent.com/31899798/133865192-02c77170-8dcc-424e-b2e4-92e6207ac2be.png" title= "MySQL"></code><!-- MySQL -->
-  <code><img height="40" src="https://user-images.githubusercontent.com/31899798/133864856-07a5ce26-7f15-4938-b717-8e9c220c6cf7.png" title= "c#"></code><!-- c# -->
-  <code><img height="40" src="https://user-images.githubusercontent.com/31899798/133864889-dc78f836-7d0c-467a-87fd-212462779f3a.png" title= "GraphQL"></code><!-- GraphQL -->
-  <code><img height="40" src="https://user-images.githubusercontent.com/31899798/133865042-d377bba9-a57c-40ad-acfa-35a31ef09871.png" title= "Heroku"></code><!-- Heroku -->
-  <code><img height="40" src="https://user-images.githubusercontent.com/31899798/133865065-2649c210-2020-4f8a-a79d-10905158f5cb.png" title= "PHP"></code><!-- PHP -->
-  <code><img height="40" src="https://user-images.githubusercontent.com/31899798/133865082-059b2ffa-f35f-48ae-831f-54b69dbea8cd.png" title= "ASP.net"></code><!-- ASP.net -->
-  <code><img height="40" src="https://user-images.githubusercontent.com/31899798/133865461-632ae229-f021-432f-b6b9-877c9e334a38.png" title= "Node.js"></code><!-- Node.js -->
-  <code><img height="40" src="https://user-images.githubusercontent.com/31899798/133865475-6a5b8a70-c06a-40c2-8796-39e54a2a09ce.png" title= "CSS"></code><!-- CSS -->
-  <code><img height="40" src="https://user-images.githubusercontent.com/31899798/133865488-34da6c18-18e8-41e1-a8de-3c72c3cfd5fe.png" title= "Angular.js"></code><!-- Angular -->
-  <code><img height="40" src="https://user-images.githubusercontent.com/31899798/133865549-5fd7d2cb-bb42-43f9-93e3-adaa68b71956.png" title= "Laravel"></code><!-- Laravel -->
-  <code><img height="40" src="https://user-images.githubusercontent.com/31899798/133865512-a37413b7-9187-4140-b470-13a36fd75efa.png" title= "Vue.js"></code><!-- Vue.js -->
-  <code><img height="40" src="https://user-images.githubusercontent.com/31899798/133865364-8eefec76-f2c3-43cf-bb9a-7635a21285c5.png" title= "Agile Methology"></code><!-- Agile -->
-  <code><img height="40" src="https://user-images.githubusercontent.com/31899798/133865327-cd5f0b56-56bc-4c8a-a8d9-c93f617c1b55.png" title= "Jira"></code><!-- Jira -->
 
-  </p>
-  
-&nbsp;
-
-<!-- GitHub Stats -->
-<H2 align="center"><strong>GitHub Statistics: 📈
-  </strong>
-</H2>
-    <p align="center">
-      <div align="center">
-    </p>
-    
-<a href="https://github.com/rogeralbp?tab=repositories">
-  <img align="center" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogeralbp&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440" 
-       alt='Roger' favorite languages" />
-</a>
-  
-<a href="https://github.com/rogeralbp">
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=rogeralbp&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" />
-</a>
-
-If you want to build a markdown file like this [check this repo](https://github.com/rogeralbp/dinamic-readmecv)🙏
+### If you wanto to build something like this you should visit this Repository
+[Template-Readme](https://github.com/rogeralbp/dinamic-readmecv)
 
