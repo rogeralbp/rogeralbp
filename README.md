@@ -6,7 +6,7 @@ ultimate client satisfaction working as I.T Technician, Web Content Specialist a
 ## Technicals Skills
 - Java, C#, ASP.NET, PHP
 - SQL Server, Postgresql, MySQL, MongoDB
-- CSS, JavaScript, HTML, Bootstrap
+- CSS, JavaScript, HTML
 - Node.js, Angular.js, Vue.js , Laravel
 - Agile, Jira
 - GIT
