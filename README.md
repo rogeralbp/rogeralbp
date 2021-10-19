@@ -4,11 +4,11 @@ I'm Software Engineer with 2 years of experience dedicated to providing quality 
 ultimate client satisfaction working as I.T Technician, Web Content Specialist and Software Developer.
 
 ## Technicals Skills
-- Java, C#, ASP.NET, PHP
-- SQL Server, Postgresql, MySQL, MongoDB
-- CSS, JavaScript, HTML
-- Node.js, Angular.js, Vue.js , Laravel
-- Agile, Jira
+- Java -- C# -- ASP.NET -- PHP
+- SQL Server -- Postgresql -- MySQL -- MongoDB
+- CSS -- JavaScript -- HTML
+- Node.js -- Angular.js -- Vue.js -- Laravel
+- Agile -- Jira
 - GIT
 
 ## I'm always open to new opportunities as Developer
