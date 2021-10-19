@@ -9,11 +9,11 @@ ultimate client satisfaction working as I.T Technician, Web Content Specialist a
 - CSS -- JavaScript -- HTML
 - Node.js -- Angular.js -- Vue.js -- Laravel
 - Agile -- Jira
-- GIT
+- Git
 
 ## I'm always open to new opportunities as Developer
 
- [Check my Resume](https://drive.google.com/file/d/1U54FwlA4nfO58wUz1WYkDrh7lETxpLht/view?usp=sharing)
+ [Check my Resume]https://drive.google.com/file/d/17v1qf05h9mGwO2JLVBd837JJS_k6cS3A/view?usp=sharing)
   
 ## Don't be afraid of contact me.
 
