@@ -11,11 +11,11 @@ ultimate client satisfaction working as I.T Technician, Web Content Specialist a
 - Agile , Jira
 - Git
 
-## I'm always open to new opportunities as Software Developer
+##  I’m looking to collaborate as Software Developer
 
  [Check my Resume](https://drive.google.com/file/d/1b2_W32WLdOSQTLpHFeg5W37MNLVs1Thw/view?usp=sharing)
   
-## Don't be afraid of contact me.
+## Connect with Me.
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roportaperez@gmail.com@gmail.com)[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogeralbp/)[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rogeralbp)
 
