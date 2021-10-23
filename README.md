@@ -13,7 +13,7 @@ ultimate client satisfaction working as I.T Technician, Web Content Specialist a
 
 ##  I’m looking to collaborate as Software Developer
 
- [Check my Resume](https://drive.google.com/file/d/1b2_W32WLdOSQTLpHFeg5W37MNLVs1Thw/view?usp=sharing)
+ [Check my Resume](https://drive.google.com/file/d/1pOuEvjVNmA4qF9STJ6sRk4rWPSIPqKs9/view?usp=sharing)
   
 ## Connect with Me.
 
