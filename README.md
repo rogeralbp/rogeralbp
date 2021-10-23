@@ -1,3 +1,5 @@
+![manchas](https://user-images.githubusercontent.com/31899798/138562838-3209ba23-3a11-4b73-8cf3-a1aed3b462c0.jpg)
+
 # Hello there, I'm Roger Oporta👋
 
 I'm Software Engineer with 2 years of experience dedicated to providing quality care for
