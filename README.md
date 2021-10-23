@@ -1,4 +1,4 @@
-![manchas](https://user-images.githubusercontent.com/31899798/138563012-746a5c81-f2d9-4656-9bfd-facc42aa99d9.jpg)
+![manchas](https://user-images.githubusercontent.com/31899798/138563190-cbec6947-0b8e-453a-aa54-4e82d73b494e.jpg)
 
 
 # Hello there, I'm Roger Oporta👋
