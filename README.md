@@ -13,7 +13,7 @@ ultimate client satisfaction working as I.T Technician, Web Content Specialist a
 
 ## I'm always open to new opportunities as Developer
 
- [Check my Resume](https://drive.google.com/file/d/17v1qf05h9mGwO2JLVBd837JJS_k6cS3A/view?usp=sharing)
+ [Check my Resume](https://drive.google.com/file/d/1b2_W32WLdOSQTLpHFeg5W37MNLVs1Thw/view?usp=sharing)
   
 ## Don't be afraid of contact me.
 
