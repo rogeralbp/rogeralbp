@@ -14,7 +14,7 @@ ultimate client satisfaction working as I.T Technician, Web Content Specialist a
 - Agile , Jira
 - Git
 
-##  I’m looking to collaborate as Software Developer
+##  I’m looking to collaborate as Fullstack Developer
 
  [Check my Resume](https://drive.google.com/file/d/1pOuEvjVNmA4qF9STJ6sRk4rWPSIPqKs9/view?usp=sharing)
   
