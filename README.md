@@ -26,3 +26,10 @@ I am a Software Engineer with over 4+ years of experience dedicated to providing
 
 
 ---
+
+#### If you want to build something like this you should visit this Repository.
+[Template-Readme](https://github.com/rogeralbp/dinamic-readmecv)
+
+#### Code Languages
+
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rogeralbp&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440)](https://github.com/anuraghazra/github-readme-stats)
